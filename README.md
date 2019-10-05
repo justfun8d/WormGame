@@ -1,7 +1,7 @@
 # WormGame
 First Java game
 
-WormGameю.jar - скомпилированное приложение.
+WormGame.jar - скомпилированное приложение.
 
 WormGame.rar - полный пакет проекта.
 
